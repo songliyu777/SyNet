@@ -21,7 +21,7 @@
         <springsite.util.version>5.0.0-RC1</springsite.util.version>
         <orika.core.version>1.5.0</orika.core.version>
         <commons.lang3.version>3.8.1</commons.lang3.version>
-        <jackson.version>2.9.7</jackson.version>
+        <jackson.version>2.9.10.7</jackson.version>
         <easypoi.version>2.4.0</easypoi.version>
         <joda.time.version>2.10</joda.time.version>
         <clickhouse.version>1.5-stable</clickhouse.version>
