@@ -28,7 +28,7 @@
         <commons.dbutils.version>1.7</commons.dbutils.version>
         <druidry.version>2.3</druidry.version>
         <google.andriodpublisher>v3-rev31-1.25.0</google.andriodpublisher>
-        <commons.beanutils.version>1.9.3</commons.beanutils.version>
+        <commons.beanutils.version>1.9.4</commons.beanutils.version>
         <commons.codec.version>1.11</commons.codec.version>
         <aliyun.oss.version>3.1.0</aliyun.oss.version>
         <zxing.version>3.3.3</zxing.version>
